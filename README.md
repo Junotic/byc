@@ -1,2 +1,2 @@
-# byc
-BYC System Stock
+# stock.byc.me
+BYC System Stock Treading
